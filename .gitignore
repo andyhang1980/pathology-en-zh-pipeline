@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.installed.cfg
+
+# 本技能运行产物（不应入库）
+extracted/
+*.tmp
+*.bak_*.docx
+_bak_*.docx
+*_校订版.docx
+_staging.docx
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
